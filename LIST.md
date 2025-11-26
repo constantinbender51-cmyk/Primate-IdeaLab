@@ -1,4 +1,4 @@
-Price and Trend Prediction
+Price and Trend Prediction(LSTM, TRANFORMER|OHLCV|PRICE AND TREND)
 Feature Engineering and Selection
 Volatility Prediction
 Adaptive Strategy and Ensemble Models

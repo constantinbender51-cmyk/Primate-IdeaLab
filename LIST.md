@@ -1,4 +1,4 @@
-Price and Trend Prediction(LSTM, TRANFORMER|OHLCV|PRICE AND TREND)
+Price and Trend Prediction(LSTM, TRANSFORMER|OHLCV|PRICE AND TREND)
 
 Feature Engineering and Selection(Boruta Algorithm, Recursive Feature Elimination , Hierarchical Clustering|NaN|FEATURES)
 

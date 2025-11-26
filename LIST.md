@@ -1,6 +1,9 @@
-Price and Trend Prediction(LSTM, TRANFORMER|OHLCV|PRICE AND TREND)\n
-Feature Engineering and Selection(Boruta Algorithm, Recursive Feature Elimination , Hierarchical Clustering|NaN|FEATURES)\n
-Volatility Prediction(GARCH, EGARCH, Hybrid LSTM, TCN (Temporal Convolutional Networks)|SQUARED RETURNS|VOLATILITY)\n
+Price and Trend Prediction(LSTM, TRANFORMER|OHLCV|PRICE AND TREND)
+
+Feature Engineering and Selection(Boruta Algorithm, Recursive Feature Elimination , Hierarchical Clustering|NaN|FEATURES)
+
+Volatility Prediction(GARCH, EGARCH, Hybrid LSTM, TCN (Temporal Convolutional Networks)|SQUARED RETURNS|VOLATILITY)
+
 Adaptive Strategy and Ensemble Models
 Risk and Position Management
 
